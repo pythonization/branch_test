@@ -32,6 +32,10 @@ spell-checker: enable
 
 text
 
+## Chapter 4
+
+text
+
 ## Chapter 5
 
 spell-checker: disable
@@ -43,6 +47,8 @@ Est laborum!
 step 2 and 3
 
 step 4
+
+step 5
 
 (not finished)
 
