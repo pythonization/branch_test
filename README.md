@@ -25,7 +25,11 @@ spell-checker: enable
 spell-checker: disable
 
 Sit amet, consectetur adipiscing elit! Elit! Elit! Elit!
+
 Est laborum!
+
+step 2
+
 (not finished)
 
 spell-checker: enable
