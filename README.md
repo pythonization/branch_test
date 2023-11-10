@@ -22,6 +22,8 @@ Duis aute in reprehenderit!
 
 Step 2.
 
+Step 3.
+
 (not finished)
 
 spell-checker: enable
