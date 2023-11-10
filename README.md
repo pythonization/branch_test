@@ -25,3 +25,19 @@ Step 2.
 (not finished)
 
 spell-checker: enable
+
+## Chapter 5
+
+spell-checker: disable
+
+Sit amet, consectetur adipiscing elit! Elit! Elit! Elit!
+
+Est laborum!
+
+step 2 and 3
+
+step 4
+
+(not finished)
+
+spell-checker: enable
