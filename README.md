@@ -19,3 +19,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 (not finished)
 
 spell-checker: enable
+
+## Chapter 5
+
+spell-checker: disable
+
+Sit amet, consectetur adipiscing elit! Elit! Elit! Elit!
+(not finished)
+
+spell-checker: enable
