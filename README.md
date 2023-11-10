@@ -15,6 +15,7 @@ spell-checker: enable
 spell-checker: disable
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim magna aliqua. Ut enim irure dolor. Ut enim cupidatat non proident.
 
 (not finished)
 
