@@ -28,7 +28,7 @@ Sit amet, consectetur adipiscing elit! Elit! Elit! Elit!
 
 Est laborum!
 
-step 2
+step 2 and 3
 
 (not finished)
 
