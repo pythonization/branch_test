@@ -26,6 +26,10 @@ Step 2.
 
 spell-checker: enable
 
+## Chapter 3
+
+text
+
 ## Chapter 5
 
 spell-checker: disable
