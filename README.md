@@ -63,3 +63,7 @@ spell-checker: enable
 ## Chapter 6
 
 this ch6 and ready for rebase
+
+## Chapter 7
+
+test7
