@@ -48,6 +48,8 @@ step 4
 
 step 5
 
+step 6 (pull requst)
+
 (not finished)
 
 spell-checker: enable
