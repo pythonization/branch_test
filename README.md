@@ -57,3 +57,7 @@ step 6 (pull request)
 (not finished)
 
 spell-checker: enable
+
+## Chapter 6
+
+this ch6 and ready for rebase
