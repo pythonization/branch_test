@@ -24,6 +24,8 @@ Step 2.
 
 Step 3.
 
+Ch2 during ch6 in another branch
+
 (not finished)
 
 spell-checker: enable
