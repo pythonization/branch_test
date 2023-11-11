@@ -48,7 +48,7 @@ step 4
 
 step 5
 
-step 6 (pull requst)
+step 6 (pull request)
 
 (not finished)
 
