@@ -26,6 +26,8 @@ Step 3.
 
 Ch2 during ch6 in another branch
 
+main know about ch7
+
 (not finished)
 
 spell-checker: enable
